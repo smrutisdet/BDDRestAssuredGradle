@@ -1,0 +1,14 @@
+.gradle
+.iml
+build
+gradle
+.idea
+out/
+.exe
+/src/test/resources/excelFiles/.~lock*
+*.ipr
+*.iws
+classes/
+Thumbs.db
+gradlew
+gradlew.bat
